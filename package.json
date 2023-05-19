@@ -1,12 +1,12 @@
 {
-	"name": "with-rn-image-crop-picker",
-	"version": "0.2.0",
-	"homepage": "https://github.com/mwegener-com/with-rn-image-crop-picker#readme",
-	"author": "Marius Wegener",
-	"repository": "https://github.com/mwegener-com/with-rn-image-crop-picker.git",
-	"description": "An Expo config plugin for painless setup of `react-native-image-crop-picker`",
+	"name": "with-rn-image-crop-picker_fixed",
+	"version": "0.3.0",
+	"homepage": "https://github.com/sangeldc/with-rn-image-crop-picker_fixed#readme",
+	"author": "sangeldc",
+	"repository": "https://github.com/sangeldc/with-rn-image-crop-picker_fixed.git",
+	"description": "An Expo config plugin for painless setup of `react-native-image-crop-picker_fixed`",
 	"bugs": {
-		"url": "https://github.com/mwegener-com/with-rn-image-crop-picker/issues"
+		"url": "https://github.com/sangeldc/with-rn-image-crop-picker_fixed/issues"
 	},
 	"publishConfig": {
 		"registry": "https://registry.npmjs.org/"
