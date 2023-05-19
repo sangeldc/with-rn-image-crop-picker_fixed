@@ -12,6 +12,7 @@ const withUpdateAndroidManifest = (config) => {
 exports.withUpdateAndroidManifest = withUpdateAndroidManifest;
 async function setCustomConfigAsync(config, androidManifest) {
     (0, Permissions_1.addPermission)(androidManifest, 'android.permission.CAMERA');
+    (0, Permissions_1.addPermission)(androidManifest, 'android.permission.READ_MEDIA_IMAGES');
     return androidManifest;
 }
 exports.default = exports.withUpdateAndroidManifest;
