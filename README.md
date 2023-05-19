@@ -1,10 +1,10 @@
-# with-rn-image-crop-picker
+# with-rn-image-crop-picker_fixed
 
-Expo config plugin for [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker).
+Expo config plugin for [react-native-image-crop-picker_fixed](https://github.com/sangeldc/with-rn-image-crop-picker_fixed).
 
 ## About
 
-This plugin adds the required attributes to the specific files as mentioned in the [docs.](https://github.com/ivpusic/react-native-image-crop-picker#step-3)
+This plugin adds the required attributes to the specific files as mentioned in the [docs.](https://github.com/sangeldc/with-rn-image-crop-picker_fixed#step-3)
 
 ### iOS
 
@@ -98,6 +98,3 @@ Example:
 
 Contributions are very welcome!
 
-## Support
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mwegener)
